@@ -1,7 +1,7 @@
 # Brave New Worlds
 Brave New Worlds is an exploration-based modpack for Minecraft. This repository contains a list of the included mods and their download locations, all necessary config files, and custom MineTweaker scripts.
 
-Brave New Worlds is currently in open beta status, version 0.9.1.
+Brave New Worlds is currently in full release status, version 1.0.0.
 
 Minecraft and its related assets are owned by Mojang AB. The individual modifications and related assets are owned by the separate mod developers, as shown in the mod listing. The specific arrangement of mods, all configuration changes, and all MineTweaker scripts are owned by Ethan Andersen under the MIT License.
 
